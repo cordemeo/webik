@@ -1,1 +1,1 @@
-# webik
+# webik проект golang сервера
